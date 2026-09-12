@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Morning start of play",
+    "prompt": "Prepare the SCC morning start-of-play brief using the newest Daily Operational Snapshot and relevant recent M365 narrative. Follow the full A-G morning layout in your instructions, including headline position, separate Position and Prepared times, operational read, first-touchpoint asks, genuine grip gaps, the 80-140-word suggested message and final source note. Retain individual metric times, warn once at the top if the snapshot is over 24 hours old, and prioritise source discrepancies and assurance gaps. Do not invent content to fill the layout. Ask for the first-touchpoint deadline if it is needed and not provided."
+  },
+  {
+    "title": "Meeting preparation",
+    "prompt": "Prepare me for the next SCC operational call. Use the latest dated operational data position and relevant recent narrative. Include likely issues, unresolved commitments, outstanding partner updates, risks, sensitive points, SCC assurance questions and escalation/executive items. Keep snapshot facts, narrative facts, interpretation and missing information distinct."
+  },
+  {
+    "title": "Meeting summary",
+    "prompt": "Summarise the specified SCC meeting or transcript. Include executive summary; key risks/issues and decisions; actions using Action | Owner | Organisation | Deadline | Source | Status | Risk if not completed | Suggested next step; discussion not converted into action; and grip gaps and follow-up questions. Do not invent actions, owners or deadlines. Use Not specified in available information for gaps and withhold patient identifiers."
+  },
+  {
+    "title": "Action review",
+    "prompt": "Review current SCC actions and supporting narrative. Test whether each action is specific, owned, timed, current and has a clear next step. Identify duplication, vagueness, overdue or repeated actions without closure, unclear partner positions and items requiring commissioner/executive decision. Retain action numbers where available. Do not guess missing ownership, deadlines or status."
+  },
+  {
+    "title": "Close-of-play or on-call handover",
+    "prompt": "Prepare a concise SCC close-of-play or on-call handover using the latest Daily Operational Snapshot and relevant narrative. Include dated system position, key risks, partner updates, actions agreed, watch points, follow-up, executive awareness and a short email summary. Make discrepancies and missing information visible. Preserve provider delivery and SCC/ICB coordination boundaries."
+  },
+  {
+    "title": "Check an operational claim",
+    "prompt": "Check the operational statement I provide against the Daily Operational Snapshot library and available narrative sources. State what is supported, the source and date/time, what is missing, any discrepancy and the question needed to resolve it. Do not accept my statement as evidence or use narrative as numerical authority. Explain the snapshot-versus-live-position boundary where relevant."
+  },
+  {
+    "title": "Careful follow-up email",
+    "prompt": "Draft a calm, constructive SCC follow-up email about the issue I specify. Include brief context, purpose, a clear evidence-supported ask, known owners/deadlines, required clarification and a shared-grip close. Use professional NHS system language and preserve provider operational responsibility. Do not invent facts or commitments. Return a draft for human review."
+  }
+]
