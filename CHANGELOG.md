@@ -1,5 +1,11 @@
 # Change log
 
+## 1.0.1 — 12 September 2026
+
+- Added the supplied Josh Harvey logo and a compact set of scalable JH marks, a creator badge, watermark and agent icon.
+- Branded all Markdown guides, both standalone HTML editions, every PDF page and the text templates with discreet creator attribution.
+- Preserved the exact agent configuration and generic data-source wording.
+
 ## 1.0.0 — 12 September 2026
 
 - Published a manual build kit for Microsoft 365 Copilot Agent Builder.
@@ -11,3 +17,9 @@
 - Improved companion handling of unavailable/corrupt browser storage, local working dates and filename copying.
 
 No operational Microsoft 365 tenant test is claimed by this release.
+
+<!-- JH creator signature -->
+
+---
+
+[![A JH Agent — Designed & built by Josh Harvey](assets/branding/a-jh-agent-badge.svg)](assets/branding/README.md)

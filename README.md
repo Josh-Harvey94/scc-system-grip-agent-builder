@@ -42,6 +42,7 @@ The Daily Operational Snapshot library is the sole numerical authority. Narrativ
 | [examples/](examples/) | Fictional dated snapshots and meeting evidence for a separate test agent |
 | [tests/ACCEPTANCE_TESTS.md](tests/ACCEPTANCE_TESTS.md) | Human-run behavioural checks and expected results |
 | [reference/](reference/) | Supplied historical PDF and HTML, explicitly superseded for configuration |
+| [assets/branding/](assets/branding/README.md) | Josh Harvey logo, monograms, watermark, creator badge and agent icon |
 | [validate.py](validate.py) | Optional local checks for canonical text, HTML parity, field limits and links |
 
 ## Exact configuration and adaptation
@@ -65,3 +66,9 @@ Setup references checked **12 September 2026**: [Build and configure](https://le
 ## Reuse
 
 Created from Joshua Harvey's SCC System Grip Agent configuration and supplied build materials. Released under the [MIT licence](LICENSE) so others can use and adapt the kit. No NHS or Microsoft endorsement, trademark permission, operational data access or service entitlement is granted. See [CONTRIBUTING.md](CONTRIBUTING.md) for changes and [SECURITY.md](SECURITY.md) for handling sensitive reports.
+
+<!-- JH creator signature -->
+
+---
+
+[![A JH Agent — Designed & built by Josh Harvey](assets/branding/a-jh-agent-badge.svg)](assets/branding/README.md)

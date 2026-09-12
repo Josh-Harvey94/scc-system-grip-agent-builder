@@ -54,6 +54,8 @@ Do not mix the fictional test files with operational snapshots. The `.txt` examp
 6. Confirm the final rule is still present at the end. Check that the UI has not truncated or rewritten the text.
 7. Configure capabilities only where the workflow needs them. Image generation is unnecessary for this build. If you enable document/chart/code tools, include them in local testing.
 
+Where the agent icon control is available, upload [jh-agent-icon.png](assets/branding/jh-agent-icon.png). Keep the exact name, description and instructions unchanged. The small JH mark identifies the creator of the build kit.
+
 The supplied configuration fits the documented 30-character name, 1,000-character description and 8,000-character instruction fields. Re-check the limits if your interface differs. [Microsoft configuration reference](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-build-agents).
 
 **There is no one-click GitHub import into Agent Builder in this kit.** The JSON starter file is a convenient list for copying, not a Microsoft deployment manifest.
@@ -142,3 +144,9 @@ Log retrieval failures, false claims, poor wording and user-permission differenc
 ## Companion privacy
 
 The companion has no backend or telemetry. It stores checklist choices locally in your browser where storage is available. Avoid operational or personal information in shared-device exports. Its release signal is a record of manual selections and does not validate the agent's behaviour.
+
+<!-- JH creator signature -->
+
+---
+
+[![A JH Agent — Designed & built by Josh Harvey](assets/branding/a-jh-agent-badge.svg)](assets/branding/README.md)

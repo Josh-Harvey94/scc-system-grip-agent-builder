@@ -7,3 +7,9 @@ Changes to `agent/instructions.txt`, `name.txt` or `description.txt` alter the c
 Keep the root companion's copy kit consistent with the configuration and starter prompts. Run `python validate.py`. Re-test behavioural changes in a separate authorised Microsoft 365 test agent and record limitations; static checks do not establish model behaviour.
 
 Use Microsoft primary documentation for platform claims. The historical files in `reference/` are provenance, not the current specification.
+
+<!-- JH creator signature -->
+
+---
+
+[![A JH Agent — Designed & built by Josh Harvey](assets/branding/a-jh-agent-badge.svg)](assets/branding/README.md)
