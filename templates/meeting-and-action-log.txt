@@ -24,3 +24,6 @@ Follow-up email (when requested)
 [Context, purpose, ask, known owners/deadlines, clarification and shared-grip close.]
 
 Only confirmed actions are transferred to the operational tracker by the responsible person. Never treat an agent-generated action as automatically agreed.
+
+---
+Template designed & built by Josh Harvey | A JH Agent

@@ -26,3 +26,6 @@ SUGGESTED FIRST-TOUCHPOINT MESSAGE
 Figures from [snapshot/date]; narrative from M365 sources; PID withheld; snapshot-based brief, not a live dashboard.
 
 Omit unsupported sections or state absence. For missing ownership use “Not specified in available information.” For missing quantitative values use “Not present in the snapshot for [date].” Human review precedes circulation.
+
+---
+Template designed & built by Josh Harvey | A JH Agent

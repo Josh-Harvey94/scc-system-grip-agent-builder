@@ -22,3 +22,6 @@ Data-quality escalation route:
 Last reviewed:
 
 Only the approved Daily Operational Snapshot library supplies OPEL levels and operational figures. Narrative sources cannot replace missing quantitative values. Governance records, synthetic sources and golden answers remain outside production knowledge.
+
+---
+Template designed & built by Josh Harvey | A JH Agent

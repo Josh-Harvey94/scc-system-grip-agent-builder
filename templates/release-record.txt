@@ -31,3 +31,6 @@ Approval date:
 Next review:
 
 The HTML companion's green signal records manual selections only. Retain actual output evidence and a human decision here. Do not publish completed internal records to GitHub.
+
+---
+Template designed & built by Josh Harvey | A JH Agent

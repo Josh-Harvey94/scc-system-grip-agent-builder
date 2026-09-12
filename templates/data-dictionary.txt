@@ -20,3 +20,6 @@ Permitted calculation and visible inputs:
 Known limitations:
 
 Document real schema names; the repository examples are fictional. Do not infer OPEL from another measure unless the authorised source itself supplies it. Preserve original numbers, dates and nulls when converting an export into a supported knowledge file.
+
+---
+Template designed & built by Josh Harvey | A JH Agent
