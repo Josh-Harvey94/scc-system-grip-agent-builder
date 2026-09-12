@@ -1,0 +1,17 @@
+SYNTHETIC TEST DATA ONLY — NOT FOR OPERATIONAL USE
+Meeting: Example SCC morning coordination call
+Date/time: 2026-09-12 08:00 Europe/London (UTC+01:00)
+Source type: Narrative meeting notes
+Organisations and statements are fictional.
+
+The Example Acute Provider representative said the acute position was OPEL 3 at 08:00. No source document validating that numerical claim was supplied. These notes do not discuss the change in occupied beds between yesterday and today.
+
+The Example Mental Health Provider reported pressure in its assessment pathway. No numerical measure, recovery plan, named action owner or deadline was recorded.
+
+Action A-01: Example Community Provider's capacity lead agreed to confirm usable community capacity and blockers by 09:00 on 2026-09-12. Status: open. The notes do not state a risk rating.
+
+Action A-02: A request to provide an acute recovery plan by 16:00 on 2026-09-11 was repeated. No owner, closure evidence or updated plan was recorded. Status: update requested.
+
+The call discussed an escalation but no clear ask, route or decision authority was recorded. A response was requested, without an assigned owner or due time.
+
+The coordinator asked that first-touchpoint updates be returned before 09:00 on 2026-09-12. Providers retain responsibility for their operational plans. The SCC coordinates assurance and follow-up.

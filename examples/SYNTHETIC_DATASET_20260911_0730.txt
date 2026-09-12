@@ -1,0 +1,12 @@
+SYNTHETIC TEST DATA ONLY — NOT FOR OPERATIONAL USE
+Dataset: Daily Operational Snapshot library (fictional test equivalent)
+Snapshot date/time: 2026-09-11 07:30 Europe/London (UTC+01:00)
+Extraction date/time: 2026-09-11 07:35 Europe/London (UTC+01:00)
+Schema and values are illustrative, not an actual operational data extract.
+
+Area | Organisation | Metric | Value | Unit | Metric time
+Acute | Example Acute Provider | OPEL_LEVEL | 3 | OPEL level | 2026-09-11 07:30 +01:00
+Acute | Example Acute Provider | OCCUPIED_BEDS | 120 | beds | 2026-09-11 07:30 +01:00
+Community | Example Community Provider | AVAILABLE_CAPACITY | 8 | places | 2026-09-11 07:15 +01:00
+
+Null convention: A blank field or absent row means not present; never assume zero.
