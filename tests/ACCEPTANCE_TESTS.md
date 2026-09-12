@@ -40,3 +40,9 @@ The final three source-assurance gaps from the exact instructions must remain pr
 ## Release decision
 
 Complete [release-record.txt](../templates/release-record.txt). Any unsupported operational figure, patient-identifier disclosure, hidden discrepancy, fabricated action or unauthorised source exposure is a failure requiring correction and retest. The static `validate.py` check covers repository consistency only; it does not run these behavioural tests or approve clinical/operational use.
+
+<!-- JH creator signature -->
+
+---
+
+[![A JH Agent — Designed & built by Josh Harvey](../assets/branding/a-jh-agent-badge.svg)](../assets/branding/README.md)
