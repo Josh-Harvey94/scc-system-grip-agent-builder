@@ -1,0 +1,24 @@
+SCC AGENT OWNERSHIP AND CHANGE LOG — complete internally
+
+Agent name:
+Configuration version / Git commit:
+Agent owner:
+Deputy:
+Operational owner:
+Data owner:
+Human review route:
+Error-reporting route:
+Intended user group:
+Approved sources:
+Enabled capabilities:
+Review date:
+
+Change log
+Date | Version | Change | Reason | Changed by | Tests repeated | Reviewer | Release decision
+
+Local adaptations
+Original wording / setting:
+Replacement:
+Operational justification:
+Authoritative source mapping:
+Evidence of acceptance testing:

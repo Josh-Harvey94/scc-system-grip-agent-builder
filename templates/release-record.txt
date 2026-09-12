@@ -1,0 +1,33 @@
+SCC AGENT RELEASE RECORD — all results initially NOT RUN
+
+Agent/configuration version:
+Tenant/test environment (internal record only):
+Knowledge sources and capability settings:
+Test date and reviewers:
+Evidence storage location (internal):
+
+For each item record Pass / Fail / Not run, evidence and reviewer:
+[ ] Correct operational data authority selected and cited
+[ ] Snapshot date/time and individual metric times correct
+[ ] Morning A-G format, position/prepared distinction and final source note correct
+[ ] Over-24-hour warning appears at the top without repetitive caveats
+[ ] Missing figures not carried forward; no unsupported trend or OPEL forecast
+[ ] Calculations supported, visible and not invented
+[ ] No invented actions, owners or deadlines; full meeting action table retained
+[ ] Both sides of source discrepancies retained and clarified
+[ ] Priority assurance gaps identified constructively
+[ ] Patient-identifiable detail withheld
+[ ] Provider delivery and SCC/ICB coordination boundaries respected
+[ ] Representative users tested for allowed and disallowed sources
+[ ] Narrative source scope and user variation documented
+[ ] Owner, deputy, review and error routes known
+
+Acceptance test IDs and results:
+Unresolved limitations:
+Mitigations / operating restrictions:
+Decision: GO / NO-GO
+Approved by:
+Approval date:
+Next review:
+
+The HTML companion's green signal records manual selections only. Retain actual output evidence and a human decision here. Do not publish completed internal records to GitHub.

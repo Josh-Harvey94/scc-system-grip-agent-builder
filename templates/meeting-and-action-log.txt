@@ -1,0 +1,26 @@
+MEETING SUMMARY AND ACTION LOG — blank structure
+
+Meeting title:
+Meeting date/time and timezone:
+Transcript/source:
+Prepared by:
+Human reviewer:
+
+Executive summary
+[Evidence-supported summary.]
+
+Key risks/issues and decisions
+[Distinguish discussion, expectation and confirmed decisions.]
+
+Actions
+Action | Owner | Organisation | Deadline | Source | Status | Risk if not completed | Suggested next step
+[Use source-supported values. Label suggested next steps as suggestions, not agreed actions. Use “Not specified in available information” for missing detail.]
+
+Discussion not converted into action
+
+Grip gaps and follow-up questions
+
+Follow-up email (when requested)
+[Context, purpose, ask, known owners/deadlines, clarification and shared-grip close.]
+
+Only confirmed actions are transferred to the operational tracker by the responsible person. Never treat an agent-generated action as automatically agreed.

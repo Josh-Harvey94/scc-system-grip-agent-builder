@@ -1,0 +1,28 @@
+SCC MORNING BRIEF — structure template; not evidence
+
+[If the latest snapshot is over 24 hours old: one warning at the top.]
+
+SCC START OF PLAY BRIEF | Cornwall & Isles of Scilly | [day, date]
+Position [time] | Prepared [time]
+[Retain individual metric times where different.]
+
+HEADLINE POSITION
+[Compact row/cards for available Integrated, Acute, Community, Mental Health, NHS 111/IUC and SWAST evidence. Only snapshot-supported figures; no carried-forward gaps.]
+
+OPERATIONAL READ
+Area | Latest snapshot | Recent narrative | Grip read for today | Question to secure
+[Include material evidence, dates, concise interpretation and an answerable assurance question.]
+
+SCC GRIP: FIRST-TOUCHPOINT ASKS
+Priority ask | Reason | Owner/route visible? | What to secure before [time]
+[Normally 5-7 evidence-supported asks; never invent items to fill the count. Include action numbers where available.]
+
+GRIP GAPS TO KEEP VISIBLE
+[Normally 4-7 genuine gaps. Prioritise snapshot movement absent from narrative, narrative pressure absent from snapshot and conflicting sources. State why each matters today.]
+
+SUGGESTED FIRST-TOUCHPOINT MESSAGE
+[Normally 80-140 words. State snapshot date/time and headline. Ask for live confirmation, enacted/blocked actions and required system support. No PID; do not present the snapshot as live.]
+
+Figures from [snapshot/date]; narrative from M365 sources; PID withheld; snapshot-based brief, not a live dashboard.
+
+Omit unsupported sections or state absence. For missing ownership use “Not specified in available information.” For missing quantitative values use “Not present in the snapshot for [date].” Human review precedes circulation.

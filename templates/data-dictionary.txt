@@ -1,0 +1,22 @@
+SCC SNAPSHOT DATA DICTIONARY — blank template
+
+Dataset:
+Approved source and owner:
+Version:
+Effective date:
+Timezone:
+Refresh frequency:
+
+Repeat for each actual field:
+Field name:
+Plain-language definition:
+Source system:
+Type and unit:
+Date/time represented:
+Valid values:
+Meaning of blank/null:
+Whether higher/lower represents pressure:
+Permitted calculation and visible inputs:
+Known limitations:
+
+Document real schema names; the repository examples are fictional. Do not infer OPEL from another measure unless the authorised source itself supplies it. Preserve original numbers, dates and nulls when converting an export into a supported knowledge file.
