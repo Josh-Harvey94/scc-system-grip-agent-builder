@@ -16,7 +16,7 @@ Download this repository using **Code → Download ZIP**, extract it and open `S
 4. Add the [starter prompts](agent/starter-prompts.json). Use a separate test agent and the [synthetic examples](examples/README.md) to work through the acceptance tests.
 5. Record the [release decision](templates/release-record.txt), then share within your organisation and check each recipient's source access.
 
-This is a manual configuration kit for Microsoft 365 Copilot Agent Builder. It does not require programming, a GitHub Copilot subscription, an OpenAI API key or a Copilot Studio project. Microsoft 365 entitlement, tenant settings and approved source access are still required. The repository is public; each organisation's agent and operational information remain in its own environment.
+This is a standalone manual configuration kit for Microsoft 365 Copilot Agent Builder. Downloaded guides, embedded branding and the interactive HTML companion work locally without a hosted companion service. Microsoft 365 entitlement, tenant settings and approved source access are still required to build and use the agent. The repository is public; each organisation's agent and operational information remain in its own environment.
 
 ## What it produces
 

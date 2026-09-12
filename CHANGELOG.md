@@ -1,5 +1,12 @@
 # Change log
 
+## 1.0.2 — 12 September 2026
+
+- Removed the legacy hosted-companion link from the PDF and replaced it with directions to the included standalone HTML file.
+- Updated the documentation to describe the downloaded kit and local companion consistently.
+- Reviewed all repository files, PDF annotations and metadata, and embedded HTML assets for obsolete service references and hosted dependencies.
+- Preserved JH branding, the exact agent configuration and generic data-source wording.
+
 ## 1.0.1 — 12 September 2026
 
 - Added the supplied Josh Harvey logo and a compact set of scalable JH marks, a creator badge, watermark and agent icon.
